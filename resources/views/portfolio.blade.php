@@ -78,7 +78,7 @@
                 <div class="lg:col-span-5 order-1 lg:order-2 flex justify-center lg:justify-end">
                     <div class="relative w-full max-w-[280px] sm:max-w-[320px] aspect-[530/677] rounded-2xl p-1 bg-gradient-to-tr from-brand-slate to-brand-light shadow-[0_0_50px_rgba(78,164,204,0.3)] group border border-brand-slate/30">
                         <div class="w-full h-full rounded-xl bg-brand-dark overflow-hidden border border-brand-dark">
-                            <img src="{{ asset('img/Muh Apriawan.jpg') }}" onerror="this.src='https://ui-avatars.com/api/?name=Muh+Apriawan&background=1A3F75&color=fff&size=512'" alt="Muh Apriawan" class="w-full h-full object-cover transition duration-500 group-hover:scale-105">
+                            <img src="{{ asset('img/Muh Apriawan.png') }}" onerror="this.src='https://ui-avatars.com/api/?name=Muh+Apriawan&background=1A3F75&color=fff&size=512'" alt="Muh Apriawan" class="w-full h-full object-cover transition duration-500 group-hover:scale-105">
                         </div>
                     </div>
                 </div>
