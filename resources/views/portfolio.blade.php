@@ -97,7 +97,9 @@
                     <h2 class="text-2xl font-bold text-white">About Me</h2>
                 </div>
                 <p class="text-gray-300 text-sm sm:text-base leading-relaxed font-light">
-                    Saya mahasiswa aktif Teknik Informatika di Universitas Tadulako dengan fokus pada pengembangan web dan aplikasi mobile. Berpengalaman dalam membuat aplikasi web menggunakan Laravel, aplikasi mobile dengan Flutter dan Java, serta perancangan antarmuka (UI/UX) menggunakan Figma. Didukung pemahaman dasar jaringan dan keamanan sistem sebagai nilai tambah. Tertarik menciptakan solusi digital yang efisien dan berdampak nyata.
+                    Mahasiswa aktif Teknik Informatika Universitas Tadulako yang passionate dalam pengembangan web dan aplikasi mobile. 
+                    Berpengalaman membangun aplikasi web dengan Laravel, aplikasi mobile dengan Flutter & Java, serta merancang antarmuka (UI/UX) menggunakan Figma. 
+                    Memiliki pemahaman dasar jaringan dan keamanan sistem, dan selalu siap menghadirkan inovasi teknologi yang memberikan dampak nyata.
                 </p>
             </div>
 
